@@ -1,0 +1,47 @@
+/* Step 7   const buttonStyle = {}; */
+
+.button {
+    width: 100px;
+    margin: 10px;
+    color: cyan;
+    padding: 15px;
+    border-radius: 30px;
+    border-color: black;
+    border-width: 5px;
+}
+
+.counterButton {
+    font-size: 30px;
+    background: blue;
+    width: 100px;
+    margin: 10px;
+    color: cyan;
+    padding: 15px;
+    border-radius: 30px;
+    border-color: black;
+    border-width: 5px;
+}
+
+.resetButton {
+    font-size: 20px;
+    background: darkorange;
+    width: 100px;
+    margin: 10px;
+    color: cyan;
+    padding: 15px;
+    border-radius: 30px;
+    border-color: black;
+    border-width: 5px;
+}
+
+.count{
+    font-size: 50px;
+    padding: 20px;
+}
+
+.totalCount{
+    font-size: 150px;
+    padding: 20px;
+    text-align: center;
+    color: red;
+}
